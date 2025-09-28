@@ -27,6 +27,3 @@ app.listen(port, ()=>{
     console.log("server is running on port:",port);
 })
 })
-
-// mongodb+srv://noumanch553_db_user:noumanch553_db_user@cluster0.fo6uqj1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-//noumanch553_db_user password
